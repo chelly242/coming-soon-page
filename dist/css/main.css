@@ -85,7 +85,7 @@ font-size: 60px;
 
 @media(max-width: 700px) {
     .countdown {
-        font-size: 50px;
+        font-size: 45px;
     }
 
     .landing h1{
